@@ -34,7 +34,6 @@ class TaskServiceTest {
     public static final Long NON_EXISTENT_TASK_ID = -1L;
     public static final String TASK_NAME = "TASK_NAME";
     public static final String TASK_DESCRIPTION = "TASK_DESCRIPTION";
-    public static final TaskStatus TASK_STATUS = TaskStatus.OPENED;
 
     public static final Long USER_ID = 2L;
     public static final Long NON_EXISTENT_USER_ID = -2L;
